@@ -1,34 +1,34 @@
 {
-  "rambu": [
+  "rambu larangan": [
     {
-      "nama": "Rambu Stop",
-      "deskripsi": "Pengemudi harus berhenti sebelum melanjutkan.",
-      "gambar": "https://example.com/images/rambu_stop.png",
-      "video": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_STOP"
+      "nama": "rambu larangan 1",
+      "deskripsi": "Rambu Larangan Dilarang Berjalan Terus, Wajib Berhenti Sesaat.",
+      "gambar": "https://raw.githubusercontent.com/fikiwan/rambulintas/refs/heads/main/Rambu-Larangan/Larangan1.png",
+      "video": "kzq59RVSpu0"
     },
     {
-      "nama": "Rambu Larangan Masuk",
-      "deskripsi": "Dilarang memasuki area ini.",
-      "gambar": "https://example.com/images/rambu_larangan_masuk.png",
-      "video": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_LARANGAN_MASUK"
+      "nama": "rambu larangan 2",
+      "deskripsi": "Rambu Larangan Dilarang Berjalan Terus Apabila Mengakibatkan Rintangan.",
+      "gambar": "https://raw.githubusercontent.com/fikiwan/rambulintas/refs/heads/main/Rambu-Larangan/Larangan2.png",
+      "video": "46usCbFZYOk"
     },
     {
-      "nama": "Rambu Kecepatan Maksimum",
-      "deskripsi": "Kecepatan maksimum yang diizinkan adalah 60 km/jam.",
-      "gambar": "https://example.com/images/rambu_kecepatan_maksimum.png",
-      "video": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_KECEPATAN"
+      "nama": "rambu larangan 3",
+      "deskripsi": "Rambu Larangan Berjalan Terus Pada Persilangan Lintasan Kereta Jalur Tunggal.",
+      "gambar": "https://raw.githubusercontent.com/fikiwan/rambulintas/refs/heads/main/Rambu-Larangan/Larangan3.png",
+      "video": "2TtQ6vJTHmY"
     },
     {
-      "nama": "Rambu Peringatan",
-      "deskripsi": "Hati-hati, ada bahaya di depan.",
-      "gambar": "https://example.com/images/rambu_peringatan.png",
-      "video": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_PERINGATAN"
+      "nama": "rambu larangan 4",
+      "deskripsi": "Rambu Larangan Berjalan Terus Pada Persilangan Lintasan Kereta Jalur Ganda.",
+      "gambar": "https://raw.githubusercontent.com/fikiwan/rambulintas/refs/heads/main/Rambu-Larangan/Larangan4.png",
+      "video": "kpVGPStjfvw"
     },
     {
-      "nama": "Rambu Belok Kiri",
-      "deskripsi": "Pengemudi diizinkan untuk belok kiri.",
-      "gambar": "https://example.com/images/rambu_belok_kiri.png",
-      "video": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_BELOK_KIRI"
+      "nama": "rambu larangan 5",
+      "deskripsi": "Rambu Larangan Dilarang Berjalan Terus Wajib Berhenti Untuk Pemeriksaan.",
+      "gambar": "https://raw.githubusercontent.com/fikiwan/rambulintas/refs/heads/main/Rambu-Larangan/Larangan5.png",
+      "video": "LjT8eKlRz-o"
     }
   ]
 }
