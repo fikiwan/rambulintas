@@ -1,5 +1,5 @@
 {
-  "rambu larangan": [
+  "rambularangan": [
     {
       "nama": "rambu larangan 1",
       "deskripsi": "Rambu Larangan Dilarang Berjalan Terus, Wajib Berhenti Sesaat.",
