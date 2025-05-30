@@ -1,0 +1,168 @@
+{
+  "traffic_signs": [
+    {
+      "nama": "Traffic Signs | Road Signs USA | Regulatory Signs No Thru Traffic",
+      "deskripsi": "Traffic Signs | Road Signs USA | Regulatory Signs No Thru Traffic",
+      "gambar": "https://i.ytimg.com/vi/5Xj_V8t-6oI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "5Xj_V8t-6oI"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Regulatory Signs No Left Turn Or U Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Regulatory Signs No Left Turn Or U Turn",
+      "gambar": "https://i.ytimg.com/vi/k9Y_h9t-9oU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "k9Y_h9t-9oU"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Regulatory Signs No U Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Regulatory Signs No U Turn",
+      "gambar": "https://i.ytimg.com/vi/m1Z_k1u-1oW/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "m1Z_k1u-1oW"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Regulatory Signs No Right Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Regulatory Signs No Right Turn",
+      "gambar": "https://i.ytimg.com/vi/p3B_l3v-3oX/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "p3B_l3v-3oX"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Regulatory Signs Stop",
+      "deskripsi": "Traffic Signs | Road Signs USA | Regulatory Signs Stop",
+      "gambar": "https://i.ytimg.com/vi/r5D_n5x-5oZ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "r5D_n5x-5oZ"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA, Warning Signs Compilation Part 1",
+      "deskripsi": "Traffic Signs | Road Signs USA, Warning Signs Compilation Part 1",
+      "gambar": "https://i.ytimg.com/vi/v9H_r9a-9ob/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "v9H_r9a-9ob"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA, Warning Signs Of Combination Curve Turn (Right - Left)",
+      "deskripsi": "Traffic Signs | Road Signs USA, Warning Signs Of Combination Curve Turn (Right - Left)",
+      "gambar": "https://i.ytimg.com/vi/z3L_w3e-3od/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "z3L_w3e-3od"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Left - Right)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Left - Right)",
+      "gambar": "https://i.ytimg.com/vi/15N_y5g-5oe/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "15N_y5g-5oe"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Right - Right)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Right - Right)",
+      "gambar": "https://i.ytimg.com/vi/37P_a7i-7og/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "37P_a7i-7og"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Left - Left)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of Combination Curve Turn (Left - Left)",
+      "gambar": "https://i.ytimg.com/vi/59R_c9k-9oh/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "59R_c9k-9oh"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a winding road (Right - Left)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a winding road (Right - Left)",
+      "gambar": "https://i.ytimg.com/vi/7_U_e_m-moh/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "7_U_e_m-moh"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a winding road (Left - Right)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a winding road (Left - Right)",
+      "gambar": "https://i.ytimg.com/vi/9aW_g_o-ooj/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "9aW_g_o-ooj"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Curve Turn (Right)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Curve Turn (Right)",
+      "gambar": "https://i.ytimg.com/vi/jjAHLsRWj5g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBiREGQUsATbhzT08a0HvKkpTVzaw",
+      "video": "jjAHLsRWj5g"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Curve Turn (Left)",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Curve Turn (Left)",
+      "gambar": "https://i.ytimg.com/vi/CkEf-0WB1aI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtPMnNzUGMywXt4SQ5h5THtapiFw",
+      "video": "CkEf-0WB1aI"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Turn",
+      "gambar": "https://i.ytimg.com/vi/EkkZjlyj_KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHjvbbBb0xJh2p_7OOdEpabpZAIg",
+      "video": "EkkZjlyj_KA"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Reverse Turn",
+      "gambar": "https://i.ytimg.com/vi/7uPga0RBN34/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD73KPh-ehJlYAx4SW32E9pSgDwqg",
+      "video": "7uPga0RBN34"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Right Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Right Turn",
+      "gambar": "https://i.ytimg.com/vi/VQyXiJHihAY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi6VFXi3TVTg_dBhUNIYwk4fk7Uw",
+      "video": "VQyXiJHihAY"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Of a Left Turn",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Of a Left Turn",
+      "gambar": "https://i.ytimg.com/vi/jLdnBD8UbfY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJ_pjZXuXhilPmXT-sI_GmOVGWpQ",
+      "video": "jLdnBD8UbfY"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Sharp Turn To The Right",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Sharp Turn To The Right",
+      "gambar": "https://i.ytimg.com/vi/WOMLlO-86Jk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDI451S_XW7rQLTm6kt_m7MjrmbIg",
+      "video": "WOMLlO-86Jk"
+    },
+    {
+      "nama": "Traffic Signs | Road Signs USA | Warning Signs Sharp Turn To The Left",
+      "deskripsi": "Traffic Signs | Road Signs USA | Warning Signs Sharp Turn To The Left",
+      "gambar": "https://i.ytimg.com/vi/2BJeGAdoH1U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBl67OAz8uPnkhuZfsjGEYFQ0W1bA",
+      "video": "2BJeGAdoH1U"
+    },
+    {
+      "nama": "Rambu Lalu - Lintas | Rambu Peringatan Persilangan Datar Dengan Lintasan Kereta Api Berpalang Pintu",
+      "deskripsi": "Rambu Lalu - Lintas | Rambu Peringatan Persilangan Datar Dengan Lintasan Kereta Api Berpalang Pintu",
+      "gambar": "https://i.ytimg.com/vi/4nTtyuq2f4Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWHAN76cu0rocsS65Qv3LtA9rOrw",
+      "video": "4nTtyuq2f4Q"
+    },
+    {
+      "nama": "Rambu Lalu - Lintas | Rambu Peringatan Persilangan Datar Dengan Lintasan Kereta Api Tampa Pintu",
+      "deskripsi": "Rambu Lalu - Lintas | Rambu Peringatan Persilangan Datar Dengan Lintasan Kereta Api Tampa Pintu",
+      "gambar": "https://i.ytimg.com/vi/6BzGIc621GI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAV9A__PtTREN_T9C7qgkN2L83PzA",
+      "video": "6BzGIc621GI"
+    },
+    {
+      "nama": "Rambu Lalu - Lintas | Rambu Peringatan Persimpangan Bundaran Dengan Prioritas",
+      "deskripsi": "Rambu Lalu - Lintas | Rambu Peringatan Persimpangan Bundaran Dengan Prioritas",
+      "gambar": "https://i.ytimg.com/vi/lYStbnKX0pQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBN1nCGX8FE4QFv-Z_gSI_mVmF4tw",
+      "video": "lYStbnKX0pQ"
+    },
+    {
+      "nama": "Rambu Lalu - Lintas | Rambu Peringatan Persimpangan Ganda Kanan Kanan",
+      "deskripsi": "Rambu Lalu - Lintas | Rambu Peringatan Persimpangan Ganda Kanan Kanan",
+      "gambar": "https://i.ytimg.com/vi/cR2ZuRzOLSw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAEjq1b3nGwY22HYNiMb3tINYfYQ",
+      "video": "cR2ZuRzOLSw"
+    },
+    {
+      "nama": "Rambu Lalu - Lintas | Kompilasi Vidio Rambu Petunjuk",
+      "deskripsi": "Rambu Lalu - Lintas | Kompilasi Vidio Rambu Petunjuk",
+      "gambar": "https://i.ytimg.com/vi/VxDNt0XyJs8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBixTopEKYzsxuotQk1RuPkb-BrxQ",
+      "video": "VxDNt0XyJs8"
+    }
+  ],
+  "weather": [
+    {
+      "nama": "How Does It Rain? Professor Nina Answers",
+      "deskripsi": "How Does It Rain? Professor Nina Answers",
+      "gambar": "https://i.ytimg.com/vi/t7F_p7z-7oa/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "t7F_p7z-7oa"
+    },
+    {
+      "nama": "Bagaimana Bisa Turun Hujan ? Profesor Nina Menjawab",
+      "deskripsi": "Bagaimana Bisa Turun Hujan ? Profesor Nina Menjawab",
+      "gambar": "https://i.ytimg.com/vi/x1J_t1c-1oc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5e8y7Z5X5z_q5z_q5z_q5z_q5",
+      "video": "x1J_t1c-1oc"
+    }
+  ]
+}
